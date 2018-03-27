@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{92E5906A-D388-4B0B-BB85-302965C6A589}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testConsoleZoo/Program.cs">
+    <Files>
+      <File FileName="testConsoleZoo/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testConsoleZoo" expanded="True">
+            <Node name="testConsoleZoo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testConsoleZoo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

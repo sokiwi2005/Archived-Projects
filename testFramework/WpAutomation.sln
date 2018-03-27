@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpTestFramework", "testFramework\wpTestFramework.csproj", "{9436A1E5-0E22-4595-A591-D88B7A949BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpTests", "UITests\wpTests.csproj", "{F9BAFE57-28D2-43A9-95F4-812B76B8E0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9436A1E5-0E22-4595-A591-D88B7A949BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9436A1E5-0E22-4595-A591-D88B7A949BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9436A1E5-0E22-4595-A591-D88B7A949BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9436A1E5-0E22-4595-A591-D88B7A949BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BAFE57-28D2-43A9-95F4-812B76B8E0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BAFE57-28D2-43A9-95F4-812B76B8E0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BAFE57-28D2-43A9-95F4-812B76B8E0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BAFE57-28D2-43A9-95F4-812B76B8E0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

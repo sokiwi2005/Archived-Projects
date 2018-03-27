@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordpressAutomation", "WordpressAutomation\WordpressAutomation.csproj", "{EF8DFD47-53BA-45B7-8EF7-F03FDE7F58BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "New Folder", "New Folder", "{85510B03-56FE-4F6F-A607-E2EB66D54E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "ggggggg\Tests.csproj", "{AC4ED56D-E522-45C9-B60E-E1C5CD3149F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8DFD47-53BA-45B7-8EF7-F03FDE7F58BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8DFD47-53BA-45B7-8EF7-F03FDE7F58BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8DFD47-53BA-45B7-8EF7-F03FDE7F58BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8DFD47-53BA-45B7-8EF7-F03FDE7F58BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4ED56D-E522-45C9-B60E-E1C5CD3149F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4ED56D-E522-45C9-B60E-E1C5CD3149F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4ED56D-E522-45C9-B60E-E1C5CD3149F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4ED56D-E522-45C9-B60E-E1C5CD3149F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

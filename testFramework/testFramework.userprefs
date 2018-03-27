@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F9BAFE57-28D2-43A9-95F4-812B76B8E0EC}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testFramework/Pages.cs">
+    <Files>
+      <File FileName="UITests/Class1.cs" Line="13" Column="3" />
+      <File FileName="testFramework/Pages.cs" Line="18" Column="31" />
+      <File FileName="testFramework/MyPage.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Sonal/projects/testFramework/UITests/Tests.cs" relfile="UITests/Tests.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.wpTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

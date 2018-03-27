@@ -1,0 +1,1 @@
+/Users/Sonal/projects/testFramework/testFramework/obj/Debug/wpTestFramework.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/WordpressTest.dll
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/WordpressTest.pdb
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/nunit.framework.dll
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/WordpressAgain.dll
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/Xamarin.UITest.dll
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/WordpressAgain.pdb
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/nunit.framework.xml
+/Users/Sonal/projects/WordpressAgain/WordpressTest/bin/Debug/Xamarin.UITest.xml
+/Users/Sonal/projects/WordpressAgain/WordpressTest/obj/Debug/WordpressTest.csprojResolveAssemblyReference.cache
+/Users/Sonal/projects/WordpressAgain/WordpressTest/obj/Debug/WordpressTest.csproj.CoreCompileInputs.cache
+/Users/Sonal/projects/WordpressAgain/WordpressTest/obj/Debug/WordpressTest.dll
+/Users/Sonal/projects/WordpressAgain/WordpressTest/obj/Debug/WordpressTest.pdb

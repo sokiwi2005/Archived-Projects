@@ -1,0 +1,2 @@
+/Users/Sonal/projects/testFramework/UITests/obj/Debug/UITests.csprojResolveAssemblyReference.cache
+/Users/Sonal/projects/testFramework/UITests/obj/Debug/UITests.csproj.CoreCompileInputs.cache
